@@ -86,6 +86,9 @@ This project combines **Streamlit**, **OpenCV**, and a **CNN model (TensorFlow/K
 ## 📸 Demo Preview
 
 ![Parking Detection Screenshot](https://github.com/AdityaTagde/car_parking_system/blob/main/1.png)
+![Parking Detection Screenshot](https://github.com/AdityaTagde/car_parking_system/blob/main/2.png)
+![Parking Detection Screenshot](https://github.com/AdityaTagde/car_parking_system/blob/main/3.png)
+![Parking Detection Screenshot](https://github.com/AdityaTagde/car_parking_system/blob/main/4.png)
 
 
 ---
